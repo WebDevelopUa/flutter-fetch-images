@@ -49,7 +49,7 @@ flutter upgrade
 - Click Yes when prompted to install the Dart plugin.
 - Click Restart when prompted.
 - Tools => ADV Manager => Create Virtual Device => Actions => Launch this ADV in emulator => 
-- open main.dart => select Device (on top panel) => press Run (&#9658; U+25BA; U+25B6; U+25B8;) [https://graphemica.com/%E2%96%B8](https://graphemica.com/%E2%96%B8)
+- open main.dart => select Device (on top panel) => press Run (&#9658;) [https://graphemica.com/%E2%96%B8](https://graphemica.com/%E2%96%B8)
 - Tools => Flutter
 - ```flutter run -d chrome --release```
 
