@@ -143,7 +143,7 @@ Creates a visual scaffold for material design widgets.
     => Launch Emulator (Play icon)
 17. Android Studio => Open Project => Install Flutter Plugin => OK
 
-### Code Visual Studio
+## Code Visual Studio
 
 1. https://code.visualstudio.com/
 2. https://az764295.vo.msecnd.net/stable/f30a9b73e8ffc278e71575118b6bf568f04587c8/VSCodeUserSetup-x64-1.54.1.exe
@@ -155,8 +155,13 @@ Creates a visual scaffold for material design widgets.
 8. edit code
 9. r (Shift + R)
 10. http://localhost:62039/#/
+11. Extensions => GitHub Pull Requests and Issues => Install
 
-Examples:
+
+------
+
+
+### Examples:
 
 GitHub: [https://github.com/StephenGrider/FlutterCasts/](https://github.com/StephenGrider/FlutterCasts/)
 
