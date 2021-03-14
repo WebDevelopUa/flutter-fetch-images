@@ -252,13 +252,6 @@ Installation and setup
 
 - [https://flutter.dev/docs/development/tools/android-studio](https://flutter.dev/docs/development/tools/android-studio)
 
-courses
-
-- [https://desirecourse.net/?s=flutter](https://desirecourse.net/?s=flutter)
-
-demo
-
-- [https://dou.ua/lenta/articles/flutter-first-steps/](https://dou.ua/lenta/articles/flutter-first-steps/)
 
 Visual Studio Code
 
