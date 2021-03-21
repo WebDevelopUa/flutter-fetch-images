@@ -16,9 +16,17 @@ class ImageList extends StatelessWidget {
     );
   }
 
-  Widget buildImage(ImageModel images) {
+  Widget buildImage(ImageModel image) {
     return Container(
-      child: Image.network(images.url),
+      child: Column(
+        children: <Widget>[
+          Padding(
+            padding: EdgeInsets.only(bottom: 8.0),
+            child: Image.network(image.url),
+          ),
+          Text(image.title),
+        ],
+      ),
       margin: EdgeInsets.all(20.0),
       padding: EdgeInsets.all(20.0),
       decoration: BoxDecoration(
