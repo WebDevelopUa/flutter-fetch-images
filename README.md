@@ -43,13 +43,14 @@ flutter upgrade
 ------
 
 ## Android Studio
- 
+
 - Open plugin preferences in Android Studio (File => Settings => Plugins).
 - Select Browse repositories, select the Flutter plugin => click Install.
 - Click Yes when prompted to install the Dart plugin.
 - Click Restart when prompted.
-- Tools => ADV Manager => Create Virtual Device => Actions => Launch this ADV in emulator => 
-- open main.dart => select Device (on top panel) => press Run (&#9658;) [https://graphemica.com/%E2%96%B8](https://graphemica.com/%E2%96%B8)
+- Tools => ADV Manager => Create Virtual Device => Actions => Launch this ADV in emulator =>
+- open main.dart => select Device (on top panel) => press Run (
+  &#9658;) [https://graphemica.com/%E2%96%B8](https://graphemica.com/%E2%96%B8)
 - Tools => Flutter
 - ```flutter run -d chrome --release```
 
@@ -157,9 +158,7 @@ Creates a visual scaffold for material design widgets.
 10. http://localhost:62039/#/
 11. Extensions => GitHub Pull Requests and Issues => Install
 
-
 ------
-
 
 ### Examples:
 
@@ -252,7 +251,6 @@ Installation and setup
 
 - [https://flutter.dev/docs/development/tools/android-studio](https://flutter.dev/docs/development/tools/android-studio)
 
-
 Visual Studio Code
 
 - [https://code.visualstudio.com/docs/?dv=win](https://code.visualstudio.com/docs/?dv=win)
@@ -275,9 +273,16 @@ full API reference.
 
 HTML Symbols [https://graphemica.com/](https://graphemica.com/%E0%B7%9E)
 
+##Commonly used Dart packages [https://dart.dev](https://dart.dev/guides/libraries/useful-libraries):
+
+- [http: ^0.13.1](https://pub.dev/packages/http)
+    - [http library](https://pub.dev/documentation/http/latest/http/http-library.html)
+      - [get function](https://pub.dev/documentation/http/latest/http/get.html)   
+
 ------
 
 W10 terminal commands, [hidden](https://pureinfotech.com/show-hidden-files-folders-windows-10/)
+
 ```
 dir /adh
 attrib -s -h
