@@ -40,6 +40,11 @@ flutter channel stable
 flutter upgrade 
 ```
 
+In case of CORS error
+install [Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
+Google Chrome Extension and turn the switch => ON
+
+
 ------
 
 ## Android Studio
@@ -273,11 +278,11 @@ full API reference.
 
 HTML Symbols [https://graphemica.com/](https://graphemica.com/%E0%B7%9E)
 
-##Commonly used Dart packages [https://dart.dev](https://dart.dev/guides/libraries/useful-libraries):
+## Commonly used Dart packages [https://dart.dev](https://dart.dev/guides/libraries/useful-libraries):
 
 - [http: ^0.13.1](https://pub.dev/packages/http)
     - [http library](https://pub.dev/documentation/http/latest/http/http-library.html)
-      - [get function](https://pub.dev/documentation/http/latest/http/get.html)   
+        - [get function](https://pub.dev/documentation/http/latest/http/get.html)
 
 ------
 
